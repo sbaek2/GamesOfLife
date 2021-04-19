@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=GOLHEX
+comment0.text=\r\n\ \ \ \ CS101\ Project1\ FA20\ Game\ Of\ Life\r\n\ \ \ \ Name\:\ Sangwon\ Baek\r\n\ \ \ \ Date\:\ October\ 27th,\ 2020\r\n
+comment1.params=alive\ alivePerc
+comment1.target=void\ init(boolean[][],\ double)
+comment2.params=alive
+comment2.target=void\ print(boolean[][])
+comment3.params=alive\ i\ j
+comment3.target=boolean\ isAlive(boolean[][],\ int,\ int)
+comment4.params=i\ j
+comment4.target=int[][]\ getNeighs(int,\ int)
+comment5.params=alive\ i\ j
+comment5.target=int\ countAliveNeighs(boolean[][],\ int,\ int)
+comment6.params=alive\ born\ surviving
+comment6.target=void\ update(boolean[][],\ int[],\ int[])
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
